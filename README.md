@@ -5,7 +5,7 @@
 Add this line to your application's Gemfile:
 
     gem 'senna_gem'
-    
+
 And then execute:
 
     $ bundle
@@ -30,7 +30,7 @@ Or install it yourself as:
 * [API Docs](http://sennajs.com/api/)
 
 
-```
+
 
 ## Examples
 
