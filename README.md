@@ -4,8 +4,8 @@
 
 Add this line to your application's Gemfile:
 
-    gem 'senna_gem
-'
+    gem 'senna_gem'
+    
 And then execute:
 
     $ bundle
