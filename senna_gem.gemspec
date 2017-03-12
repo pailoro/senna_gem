@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = SennaGem::VERSION
   spec.authors       = ["Fernando Aureliano"]
   spec.email         = ["mail@fernandoaureliano.com"]
-  spec.description   = %q{This gem implement sennajs in your ruby project.}
+  spec.description   = %q{This gem load sennajs in your ruby project.}
   spec.summary       = %q{ }
   spec.homepage      = "http://sennajs.com"
   spec.license       = "MIT"
